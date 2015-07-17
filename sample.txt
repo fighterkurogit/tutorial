@@ -1,3 +1,5 @@
-very easy to understand git commonds.
-append 2nd line.
-commit : record index.
+git commands
+============
+commit : record the changes in index.
+add : register changes to index.
+pull : get the changes from remote.
