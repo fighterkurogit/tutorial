@@ -1,3 +1,4 @@
 very easy to understand git commonds.
 append 2nd line.
 add : register a change to index.
+pull : get the changes from remote.
